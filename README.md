@@ -17,3 +17,8 @@
 # Next Steps
 Добавить лайки
 Добавить избранные
+
+<ul>
+<li><a href="https://github.com/beshunmo">Владимир Хван</a></li>
+<li><a href="https://github.com/le0n229">Михаил Левин</a></li>
+</ul>
