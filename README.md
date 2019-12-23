@@ -10,15 +10,14 @@
 удаление рецепта
 подгрузка данных с вусвилла в форме добавления рецепта
 # Authors
-Артем
-Денис
-Денис
-Дмитрий
+<ul>
+<li><a href="https://github.com/ArtVolchara">Артём Волков</a></li>
+<li><a href="https://github.com/debbes">Денис Красавин</a></li>
+ <li><a href="https://github.com/beshunmo">Денис Лемишевский</a></li>
+<li><a href="https://github.com/mitrafantos">Дмитрий Троицкий</a></li>
+</ul>
 # Next Steps
 Добавить лайки
 Добавить избранные
 
-<ul>
-<li><a href="https://github.com/beshunmo">Владимир Хван</a></li>
-<li><a href="https://github.com/le0n229">Михаил Левин</a></li>
-</ul>
+
